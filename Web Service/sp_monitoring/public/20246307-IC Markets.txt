@@ -1,0 +1,1 @@
+[{"User":"KYR","Cmd":"NewOrder","OpType":1,"Symbol":"USDJPY","Price":0,"Lots":0.1,"AcctBal":1000,"timestamp":1596424019137},{"User":"KYR","Cmd":"NewOrder","OpType":1,"Symbol":"USDJPY","Price":0,"Lots":0.1,"AcctBal":1000,"timestamp":1596424097702}]

@@ -1,0 +1,1 @@
+[{"cmd":"CloseOrder","ticket":87595295,"op_type":0,"symbol":"EURJPY","price":122.537,"new_price":0,"units":1,"spread":0.003,"timestamp":1603872821732},{"cmd":"CloseAll","ticket":-1,"op_type":-1,"symbol":"EURJPY","price":0,"new_price":0,"units":0,"spread":0.003,"timestamp":1603872821923}]

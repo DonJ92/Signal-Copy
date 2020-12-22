@@ -1,0 +1,1 @@
+[{"Cmd":"NewOrder","OpType":0,"Symbol":"EURUSD","Price":1.18382,"Lots":0.15,"AcctBal":2100,"timestamp":1596785223606}]

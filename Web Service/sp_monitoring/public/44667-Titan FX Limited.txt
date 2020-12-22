@@ -1,0 +1,1 @@
+[{"cmd":"CloseAll","op_type":-1,"symbol":"","price":0,"units":0,"new_price":0,"timestamp":1598952671410}]

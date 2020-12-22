@@ -1,0 +1,1 @@
+[{"cmd":"CloseOrder","ticket":681041,"op_type":1,"symbol":"USDJPY","price":0,"new_price":0,"units":0.1,"spread":0.002,"timestamp":1600452979838}]

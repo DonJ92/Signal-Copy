@@ -1,0 +1,1 @@
+[{"cmd":"NewOrder","ticket":88608473,"op_type":0,"symbol":"EURUSD","price":1.18115,"new_price":0,"units":0.1,"spread":2.0e-5,"timestamp":1605258757474}]
